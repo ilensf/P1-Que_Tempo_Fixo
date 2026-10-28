@@ -1,10 +1,10 @@
-Servizo de exportación de datos meteorolóxicos
-Estación: A Coruña / Alvedro (aeroporto) · Indicativo: 08002
-Latitude: 43,3000 · Lonxitude: -8,3833 · Altitude: 97 m
-Período: 01/01/2021 - 31/12/2025
-Fonte orixinal: Meteostat (meteostat.net). Ficheiro modificado con fins didácticos.
+Servizo de exportaciï¿½n de datos meteorolï¿½xicos
+Estaciï¿½n: A Coruï¿½a / Alvedro (aeroporto) ï¿½ Indicativo: 08002
+Latitude: 43,3000 ï¿½ Lonxitude: -8,3833 ï¿½ Altitude: 97 m
+Perï¿½odo: 01/01/2021 - 31/12/2025
+Fonte orixinal: Meteostat (meteostat.net). Ficheiro modificado con fins didï¿½cticos.
 
-Data;Temp. media (ºC);Temp. mínima (ºC);Temp. máxima (ºC);Humidade relativa (%);Precipitación (mm);Vento medio (km/h);Presión (hPa)
+Data;Temp. media (ï¿½C);Temp. mï¿½nima (ï¿½C);Temp. mï¿½xima (ï¿½C);Humidade relativa (%);Precipitaciï¿½n (mm);Vento medio (km/h);Presiï¿½n (hPa)
 2021-01-01;5,9;3,3;9,1;87;12,2;11,0;1.015,7
 2021-01-02;5,5;3,1;9,7;91;9,8;6,4;1.019,8
 2021-01-03;5,6;3,0;8,4;92;12,4;8,5;1.018,9
