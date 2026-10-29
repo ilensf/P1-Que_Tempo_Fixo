@@ -1,3 +1,8 @@
-matplotlib>=3.8
-pandas>=2.2
-requests>=2.31
+pandas
+numpy
+matplotlib
+requests
+ipykernel
+sqlalchemy
+psycopg2-binary
+python-dotenv
